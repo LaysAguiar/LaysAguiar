@@ -60,7 +60,7 @@ Sou uma desenvolvedora FrontEnd, buscando sempre aprender cada vez mais. Atualme
 <a href="https://www.linkedin.com/in/lays-vidal-de-aguiar-4121b41b1/"><img align="left" alt="Linkedin" width="118px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:lays.vidal.de.aguiar@outlook.com"><img align="left" alt="Microsoft Outlook" width="200px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
-<a href="https://www.instagram.com/_laysaguiar/"><img align="left" alt="Instagram" width="131px" src="https://img.shields.io/badge/<Instagram>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/_laysaguiar/"><img align="left" alt="Instagram" width="165px" src="https://img.shields.io/badge/<Instagram>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 
 <!--
