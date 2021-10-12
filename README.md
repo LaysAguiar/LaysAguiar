@@ -47,8 +47,8 @@ Sou uma desenvolvedora FrontEnd, buscando sempre aprender cada vez mais. Atualme
 ### Meu status
 <p>
 <a href="https://github.com/LaysAguiar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaysAguiar&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaysAguiar&theme=radical&layout=compact" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=LaysAguiar&show_icons=true&theme=radical" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaysAguiar&theme=radical&layout=compact" />
 </a>
 </p>
 
