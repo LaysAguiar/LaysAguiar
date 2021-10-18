@@ -14,7 +14,7 @@ Sou uma desenvolvedora FrontEnd, buscando sempre aprender cada vez mais. Atualme
 
        📖FrontEnd Reactjs, Nextjs.
 
-       📖Banco de dados relacional (Postegres).
+       📖Banco de dados relacional (PostgreSQL).
 
 
 
